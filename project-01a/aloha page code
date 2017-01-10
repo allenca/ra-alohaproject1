@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aloha Apparel Co.</title>
+    </head>
+
+    <body>
+          <header>
+            <img src="assets/images/aloha-logo.svg"/>
+            <img src="assets/images/cart-icon.svg"/>
+          </header>
+
+            <banner>
+              <img src="assets/images/banner-girl.png"/>
+              <h5>New Collection</h5>
+              <h1>Spring/Summer 2016<h1>
+            </banner>
+
+            <main>
+              <section id="about">
+              <h3>Hand-Crafted <span>Styles</span></h3>
+              <p>Aloha Apparel Co sells only the finest ready-to-travel clothing.
+                Browse our current selection of products or sign-up for updates below.</p>
+              </section>
+
+              <section id="products">
+                  <h3>Most-Loved <span<Products</span>
+                  <div id="product descriptions"</div>
+                    <div class="item">
+                      <img src=>
+                      <p>dresses</p>
+                      <h4>Stretch knit dress</h4>
+                      <p>$169.00</p>
+                    </div>
+
+                  </div>
+              </section>
+
+
+              </section>
+
+              <section>
+
+              </section>
+            </main>
+    </body>
+
+    <footer>
+
+    </footer>
+</html>
